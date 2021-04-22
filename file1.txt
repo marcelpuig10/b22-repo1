@@ -1,1 +1,9 @@
  B22 Learning Git
+
+ we made first commit
+ commot is almost like taking
+ a picture of the changes
+ at certain moment compared
+ to previous moment
+
+ it contains the changes you made
